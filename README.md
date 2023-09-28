@@ -1,5 +1,4 @@
 # SSPM-Project
-Projets on randomized linear algebra. Approximation of tensor by low-rank methods 
 
 Data compression by randomized algorithms. Codes in Python used in the project. Common project with https://github.com/mariecmpn/SSPM-project.git
 
